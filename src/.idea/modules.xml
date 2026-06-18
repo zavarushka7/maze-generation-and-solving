@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A1_Maze_Java_ID_1391854-lizardi_goooo_3f7db041_7740_4974-1.iml" filepath="$PROJECT_DIR$/A1_Maze_Java_ID_1391854-lizardi_goooo_3f7db041_7740_4974-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Maze.iml" filepath="$PROJECT_DIR$/.idea/modules/Maze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Maze.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Maze.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Maze.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Maze.test.iml" />
+    </modules>
+  </component>
+</project>
